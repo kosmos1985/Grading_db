@@ -1,0 +1,47 @@
+{
+  "grading": [
+    {
+      "grade":"A",
+      "grade_description":"Great job!",
+      "percent_from": "100%",
+      "percent_to": "100%",
+      "id": 1
+    },
+    {
+      "grade":"B",
+      "grade_description":"Very goog!",
+      "percent_from": "90%",
+      "percent_to": "99%",
+      "id": 2
+    },
+    {
+      "grade":"C",
+      "grade_description":"Pretty good!",
+      "percent_from": "73%",
+      "percent_to": "89%",
+      "id": 3
+    },
+    {
+      "grade":"D",
+      "grade_description":"Could be better!",
+      "percent_from": "50%",
+      "percent_to": "72%",
+      "id": 4
+    },
+    {
+      "grade":"E",
+      "grade_description":"You need to work more!",
+      "percent_from": "31%",
+      "percent_to": "49%",
+      "id": 5
+    },
+    {
+      "grade":"F",
+      "grade_description":"You still have a lot to learn!",
+      "percent_from": "0%",
+      "percent_to": "30%",
+      "id": 6
+    }
+
+  ]
+}
